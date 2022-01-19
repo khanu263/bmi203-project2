@@ -1,2 +1,2 @@
-# macOS directory files
 .DS_Store
+__pycache__/
